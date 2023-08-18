@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
   <img src="https://img.shields.io/badge/Nodejs-43853d?logo=Node.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Webpack-%232c3e50?logo=webpack" />
+  <img src="https://img.shields.io/badge/Vite-%232c3e50?logo=vite" />
   <img src="https://img.shields.io/badge/Rollup-EC4A3F?logo=rollup.js&logoColor=fff" />
   <img src="https://img.shields.io/badge/Babel-%232c3e50?logo=babel" />
   <img src="https://img.shields.io/badge/ESLint-%234B32C3?logo=eslint" />
